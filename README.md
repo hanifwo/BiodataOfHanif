@@ -1,7 +1,7 @@
 # BiodataOfHanif
 
-<h1> Biodata <h1/>
-  <h3>
+<h2> Biodata <h2/>
+  <h4>
 <p> Name: Hanif Wicaksono <p/>
 <p> Nickname: Hanif <p/>
 <p> Gender: Male <p/>
@@ -12,4 +12,4 @@
 <p> Address: Jl. Gunung Raung, Situbondo <p/>
 <p> Hobby: Reading <p/>
     
-<h3/>
+<h4/>
